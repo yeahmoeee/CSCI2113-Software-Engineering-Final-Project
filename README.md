@@ -1,8 +1,8 @@
-# CSCI2113 Software Engineering Final Project: Ultimate Tic-Tac-Toe
+# Ultimate Tic-Tac-Toe 
 
 ![tic-tac-toe](https://user-images.githubusercontent.com/76827587/235328649-0283a9e2-a280-4651-8d05-d1a51d7967db.png)
 
-In this project, we will be implementing a variant of Tic-Tac-Toe called the Ultimate (Nested) Tic-Tac-Toe. Since the project involved the implementation of a chat room based on the client-server model, instead of creating a new set of handshake protocol, we will be expanding on the pre-existing handshake protocol from [Project 2](https://github.com/yeahmoeee/yeahmoeee-project2/). Aside from the Ultimate Tic-Tac-Toe, we have also decided to include a game mode for waitlisted players to play an ordinary 3x3 Tic-Tac-Toe against an AI. More on how everything works will be explain underneath. 
+During my exchange at the [George Washington University](https://www.gwu.edu/), I took a CS course codenamed [CSCI2113](https://cs2113-s23.github.io) for software engineering. For the final project, me and my groupmate [Max](https://github.com/msavasta) decided to implement a new variant of Tic-Tac-Toe called the Ultimate (Nested) Tic-Tac-Toe. Since the project involved the implementation of a chat room based on the client-server model, instead of creating a new set of handshake protocol, we will be expanding on the pre-existing handshake protocol from [Project 2](https://cs2113-s23.github.io/project/2). Aside from the Ultimate Tic-Tac-Toe, we have also decided to include a game mode for waitlisted players to play an ordinary 3x3 Tic-Tac-Toe against an AI. More on how everything works will be explain underneath. 
 
 ## Rules for the Game
 
