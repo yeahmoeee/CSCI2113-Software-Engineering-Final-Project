@@ -1,4 +1,4 @@
-# ![CSCI2113](https://cs2113-s23.github.io/) Final Project: Ultimate Tic-Tac-Toe
+# CSCI2113 Software Engineering Final Project: Ultimate Tic-Tac-Toe
 
 ![tic-tac-toe](https://user-images.githubusercontent.com/76827587/235328649-0283a9e2-a280-4651-8d05-d1a51d7967db.png)
 
